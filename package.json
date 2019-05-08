@@ -1,5 +1,5 @@
 {
-  "name": "html-starter-template",
+  "name": "html-project-starter",
   "version": "1.0.0",
   "description": "Starting template for HTML UI projects. Includes Gulp build support for SASS, Typescript. Includes Bootstrap, Font-Awesome and Jquery",
   "main": "index.js",
