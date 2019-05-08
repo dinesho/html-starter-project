@@ -1,0 +1,23 @@
+{
+  "name": "html-starter-template",
+  "version": "1.0.0",
+  "description": "Starting template for HTML UI projects. Includes Gulp build support for SASS, Typescript. Includes Bootstrap, Font-Awesome and Jquery",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dinesh Don",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.26.5",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.0.2",
+    "typescript": "^3.4.5",
+    "gulp-typescript": "^5.0.1"
+  },
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.4.1"
+  }
+}
